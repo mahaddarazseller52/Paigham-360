@@ -1,0 +1,6 @@
+{
+  "name": "Paigham360 – The Message of Islam",
+  "description": "Discover authentic Quranic teachings, Sahih Hadith, Islamic history, inspiring Waqiat, Duas, and bilingual Urdu & English educational stories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
